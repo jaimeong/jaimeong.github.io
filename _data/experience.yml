@@ -1,19 +1,23 @@
 # Jobs
-# VP of Global Communications
-- company: Springfield International Human Rights Outreach
-  position: VP of Global Communications
-  duration: Oct, 2013 &mdash; Present
-  summary: Write about your core competencies in one or two sentences describing your position. If you held the position for a long time, it could be a longer section, including a couple bullet points	<ul class="resume-item-list"><li>A project you are proud of</li><li>Another awesome project</li><li>or a team or department you worked with</li></ul>
+# FAST - Software Implementation Consultant
+- company: Fast Enterprises 
+  position: Software Implementation Consultant
+  duration: May 2021 &mdash; Present
+  summary: • Lead project definition meetings with client to establish contractual duties and prevent scope creep
+• Developed and refactored features to be robust using VB.net and C# while taking into account massive volumes and
+future changes in legislation
+• Utilized SQL and SSMS to research and analyze datasets of interest for the client as well as diagnosing and resolving
+production data errors
+• Secured satisfactory software release through frequent updates to the client, exhaustive test suites, and stakeholder
+presentations
+• Championed clarity and usability of taxpayer facing features theref	<ul class="resume-item-list"><li>A project you are proud of</li><li>Another awesome project</li><li>or a team or department you worked with</li></ul>
 
-# Director of Digital Stratgy
-- company: United Nations Human Rights Council
-  position: Director of Digital Strategy
-  duration:  Jun, 2010 &mdash; Sept, 2013
-  summary: If your stint was shorter, feel free to be brief and just call out the most meaningful points of your role. Be concise, and be meaninful. The person reading just needs enough to want to talk to you more about your experience.
+# Coding Minds Academy
+- company: Coding Minds Academy
+  position: Curriculum Developer, Instructor
+  duration:  Jan, 2020 &mdash; Jan, 2021
+  summary: • Authored 48 hour Java course, capturing dozens more clients and establishing a curriculum leading to increased
+enrollment
+• Authored algorithms and problem solving curriculum, coaching young competitors in the U.S. Computing Olympiad,
+USACO
 
-
-# Communications Coordinator
-- company: Springfield Women & Children's Center
-  position: Communications Coordinator
-  duration:   Jun, 2008  &mdash; May, 2010
-  summary: Led communication efforts across digital and traditional media channels for marketing and public relations, internal communication strategies, and coordinated support programs for the recipients of the center's services.
