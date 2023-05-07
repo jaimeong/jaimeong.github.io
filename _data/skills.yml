@@ -1,12 +1,10 @@
 # Skills
-# Organizational leadership
-- skill: Organizational leadership
-  description: I have several years of experience leading organziations from community groups to business departments. From public speaking, to mentoring, to coordination of people and events, I can lead in any context.
+- skill: Software Development
+  description: I have 2 years of professional experience developing software in C# and VB.net as well as database management using SQL and SSMS. Outside of work, I have experience and am interested in Python, Go, Rust, PostgreSql, MongoDB,and Linux.
 
-# Communications strategy
-- skill: Communications strategy
-  description: Content and marketing strategy,
 
-# Digital content development and creation
-- skill: Digital content development and creation
-  description: Copy writing, graphic design, web design, front-end web development, print design
+- skill: Written and Verbal Communication
+  description: I have 1 year of remote experience where I needed to effectively communicate with my team through text. I learned a lot about succinctness, asking good questions, and respecting people's time and energy. I also say what I mean and mean what I say. 
+
+- skill: Client Consulting
+  description: I have 2 years of experience working in a client-facing role. I have lead requirement gathering meetings, given demos, answers questions, assisted with business testing, and acted as a liason between business needs and technical specifications

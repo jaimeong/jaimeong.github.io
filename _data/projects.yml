@@ -4,9 +4,10 @@
 # mocks 
 - project: Mock Interview Platform
   url: "https://github.com/jaimeong/interview-api"
-  description: • Implemented platform to record mock interviews in a more structured and standardized method than the Google Doc previously used • Chose and developed backend operations using Go for its built-in, robust networking capabilities and static typing• Utilized Git and communications software to collaborate with other developers remotely and asynchronously• Played to the strengths anJazz Notes is an open source node/ember app that helps you keep track of your music compositions and new ideas.
+  description:  • Implemented platform to record mock interviews in a more structured and standardized method than the Google Doc previously used </br> • Chose and developed backend operations using Go for its built-in, robust networking capabilities and static typing </br> • Utilized Git and communications software to collaborate with other developers remotely and asynchronously </br> • Played to the strengths and inoperability of the REST APIs by using Axios to communicate between the Go backend and React frontend
 
 # User Accounts Backend
 - project: User Accounts Backend
   url: "https://github.com/jaimeong/passio"
-  description: • Leveraged Go’s fantastic standard library to encode JSON for the REST API which manipulates User entities held in the PostgreSQL database• Containerized the API and database using Docker in an effort to decouple the app from its environment and dependencies • Employed data best practices by securely hashing and salting user credentials in PostgreSQL database, obfuscating sensitive information
+  description:  • Leveraged Go’s fantastic standard library to encode JSON for the REST API which manipulates User entities held in the PostgreSQL database </br> • Containerized the API and database using Docker in an effort to decouple the app from its environment and dependencies </br> • Employed data best practices by securely hashing and salting user credentials in PostgreSQL database, obfuscating sensitive information
+
